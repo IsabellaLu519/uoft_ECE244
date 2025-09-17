@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/isabellalu/Desktop/ECE244_CODE/lab1_release/convert",
+      "program": "/Users/isabellalu/Desktop/ECE244_CODE/lab1_release/convert/build/Debug/outDebug"
+    }
+  ]
+}
