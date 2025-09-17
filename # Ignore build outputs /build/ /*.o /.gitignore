@@ -1,0 +1,6 @@
+# Ignore build outputs
+/build/
+/*.o
+/outDebug
+.DS_Store
+.vscode
